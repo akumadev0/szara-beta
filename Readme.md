@@ -1,4 +1,5 @@
 # SZARA-BETA
+Wersja 08.03.2025r.
 Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Sokołowie Podlaskim
 #Aktualnie dostępne funkcje:
 1. Dodawanie/Usuwanie/Wyświetlanie/Edytowanie Postów
@@ -6,6 +7,9 @@ Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Soko�
 3. Dodawanie Postów do wersji roboczej
 4. Zabezpieczony przez Bcrypt system autoryzacji użytkownika(blokowanie logowania po 5 nieudanych próbach aby zapobiec atakom typu bruteforce)
 5. Stworzone od zera podstrony dla kierunków
+# TODO LIST
+1. Dark Mode switcher dla Frontu i Backendu
+2. Optymalizacja pod kątem wydajności
 # Użyte technologie
 1. NEXT.js.
 2. React
