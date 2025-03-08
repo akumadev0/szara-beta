@@ -7,6 +7,7 @@ Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Soko�
 3. Dodawanie Postów do wersji roboczej
 4. Zabezpieczony przez Bcrypt system autoryzacji użytkownika(blokowanie logowania po 5 nieudanych próbach aby zapobiec atakom typu bruteforce)
 5. Stworzone od zera podstrony dla kierunków
+6. Stworzona od zera podstrona Dla Bursy Międzyszkolnej
 # TODO LIST
 1. Dark Mode switcher dla Frontu i Backendu
 2. Optymalizacja pod kątem wydajności
@@ -27,6 +28,8 @@ Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Soko�
 14. PostCSS
 15. TypeScript
 16. Autoprefixer
+# Strona Bursy ( NOWOŚĆ)
+![image](https://github.com/user-attachments/assets/740323a3-51d2-4bd2-b218-9ac4ce09aa64)
 # Wersja Pre-Alpha
 ![image](https://github.com/user-attachments/assets/58b4c57b-24f5-4501-a7e8-459ffddce3a5)
 # Wersja Obecna
