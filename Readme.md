@@ -1,7 +1,7 @@
 # SZARA-BETA
 Wersja 08.03.2025r.<br>
 Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Sokołowie Podlaskim
-#Aktualnie dostępne funkcje:
+# Aktualnie dostępne funkcje:
 1. Dodawanie/Usuwanie/Wyświetlanie/Edytowanie Postów
 2. Zarządzanie autorami/tagami z poziomu panelu
 3. Dodawanie Postów do wersji roboczej
