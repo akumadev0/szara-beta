@@ -12,5 +12,5 @@ Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Soko�
 ![image](https://github.com/user-attachments/assets/2c005ddf-ebfe-45bc-8cf1-314e6c92334a)
 # Backend Strony ( Strona stała się pełnoprawnym CRUD)
 ![image](https://github.com/user-attachments/assets/17a2643c-242d-443a-ae6b-9017774f565c)
-#Kierunki Podstrona
+# Kierunki Podstrona
 ![image](https://github.com/user-attachments/assets/05e604c9-3cbe-4dde-acbc-e883d6de2e78)
