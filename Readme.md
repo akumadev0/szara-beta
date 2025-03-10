@@ -1,6 +1,6 @@
 # SZARA-BETA
 Wersja 10.03.2025r.<br>
-Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Sokołowie Podlaskim
+Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Sokołowie Podlaskim<br>
 Aktualna Cena wykupienia pełnych praw projektu:2999zł
 # Aktualnie dostępne funkcje:
 1. Dodawanie/Usuwanie/Wyświetlanie/Edytowanie Postów
