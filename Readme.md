@@ -1,5 +1,5 @@
 # SZARA-BETA
-Wersja 08.03.2025r.<br>
+Wersja 10.03.2025r.<br>
 Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Sokołowie Podlaskim
 # Aktualnie dostępne funkcje:
 1. Dodawanie/Usuwanie/Wyświetlanie/Edytowanie Postów
@@ -8,6 +8,8 @@ Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Soko�
 4. Zabezpieczony przez Bcrypt system autoryzacji użytkownika(blokowanie logowania po 5 nieudanych próbach aby zapobiec atakom typu bruteforce)
 5. Stworzone od zera podstrony dla kierunków
 6. Stworzona od zera podstrona Dla Bursy Międzyszkolnej
+7. Stworzona od zera podstrona dla Kadry Nauczycielskiej
+8. Optymalizacja Menu pod telefony oraz stworzenie mega menu dla linków
 # TODO LIST
 1. Dark Mode switcher dla Frontu i Backendu
 2. Optymalizacja pod kątem wydajności
@@ -28,6 +30,9 @@ Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Soko�
 14. PostCSS
 15. TypeScript
 16. Autoprefixer
+# Strona Kadry Szkoły
+![image](https://github.com/user-attachments/assets/7f0d3e27-a5e9-4611-8d5d-0dfec6423b62)
+
 # Strona Bursy ( NOWOŚĆ)
 ![image](https://github.com/user-attachments/assets/740323a3-51d2-4bd2-b218-9ac4ce09aa64)
 # Wersja Pre-Alpha
