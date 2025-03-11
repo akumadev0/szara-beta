@@ -1,4 +1,9 @@
-# SZARA-BETA
+# SZARA-BETA ( PROJEKT SKOŃCZONY)
+Projekt został skończony lecz będzie on nadal aktualizowany.
+Co jest potrzebne do uruchomienia projektu?
+Infrastruktura która uruchomi Next.js,Node.js,MySQL jednocześnie(Można skorzystać z gotowych rozwiązań Platform typu SaaS bądź konfigurować VPS na własną ręke)
+!!!!!!!!!!Wszystkie użyte zdjęcia są tylko do celów poglądowych nie mogą one zostac użyte w oficjalnej wersji aplikacji!!!!!!!!!
+
 Wersja 10.03.2025r.<br>
 Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Sokołowie Podlaskim<br>
 Aktualna Cena wykupienia pełnych praw projektu:2999zł
