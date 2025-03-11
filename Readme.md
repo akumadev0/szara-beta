@@ -7,6 +7,9 @@ Infrastruktura która uruchomi Next.js,Node.js,MySQL jednocześnie(Można skorzy
 Wersja 10.03.2025r.<br>
 Prototyp nowoczesnej strony Zespołu Szkół nr. 1 im. K.K Baczyńskiego w Sokołowie Podlaskim<br>
 Aktualna Cena wykupienia pełnych praw projektu:2999zł
+Kontakt w celu wykupienia kodu projektu:<br>
+Facebook:https://www.facebook.com/v1tma/?locale=pl_PL <br>
+Discord:allvaez
 # Aktualnie dostępne funkcje:
 1. Dodawanie/Usuwanie/Wyświetlanie/Edytowanie Postów
 2. Zarządzanie autorami/tagami z poziomu panelu
