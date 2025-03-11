@@ -1,7 +1,7 @@
 # SZARA-BETA ( PROJEKT SKOŃCZONY)
-Projekt został skończony lecz będzie on nadal aktualizowany.
-Co jest potrzebne do uruchomienia projektu?
-Infrastruktura która uruchomi Next.js,Node.js,MySQL jednocześnie(Można skorzystać z gotowych rozwiązań Platform typu SaaS bądź konfigurować VPS na własną ręke)
+Projekt został skończony lecz będzie on nadal aktualizowany.<br>
+Co jest potrzebne do uruchomienia projektu?<br>
+Infrastruktura która uruchomi Next.js,Node.js,MySQL jednocześnie(Można skorzystać z gotowych rozwiązań Platform typu SaaS bądź konfigurować VPS na własną ręke)<br>
 !!!!!!!!!!Wszystkie użyte zdjęcia są tylko do celów poglądowych nie mogą one zostac użyte w oficjalnej wersji aplikacji!!!!!!!!!
 
 Wersja 10.03.2025r.<br>
